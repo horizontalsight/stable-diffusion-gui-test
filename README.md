@@ -6,6 +6,8 @@
 
 我的工作：自己写了一套图形界面。
 
+2026-11-21 整理磁盘的时候，上传了一份release备份到仓库资源内。
+
 仓库地址：<https://github.com/horizontalsight/stable-diffusion-gui-test>
 
 ---
